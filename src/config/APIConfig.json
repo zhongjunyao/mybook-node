@@ -1,0 +1,6 @@
+{
+  "VERSION": "V1.0.0",
+  "HOST": "http://localhost:8000/",
+  "APP": "booksys",
+  "API_PREFIX": "/api"
+}
